@@ -1,2 +1,2 @@
 # Travel-Hospitality-Aviation-Analytics
-![flight](assets/image1)
+![flight](assets/image2)
