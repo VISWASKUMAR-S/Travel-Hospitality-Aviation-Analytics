@@ -42,23 +42,23 @@ To ensure comprehensive analysis, the following tasks were performed:
 - Includes key metrics such as total flights, average delays, and overall traffic trends.
 - Utilizes color-coded indicators to highlight performance levels (e.g., green for on-time, red for delays).
 
-![flightimage](assets/Slide-1 (Overall_stats).png).
+![flightimage1](assets/Slide-1 (Overall_stats).png).
 
 ### Flight Traffic Analysis
 - Visualizes traffic patterns across different airports and airlines.
 - Includes metrics such as peak traffic times, busiest routes, and seasonal variations.
 - Uses bar charts, heat maps, and line graphs to represent data clearly.
 
-![flightimage](assets/Slide-2 (Flight_trafiic).png)
+![flightimage2](assets/Slide-2 (Flight_trafiic).png)
 
 ### Time Series Analysis
 - Analyzes trends and patterns over time to identify growth trajectories and seasonal fluctuations.
 - Utilizes line graphs to show changes in flight numbers, delays, and other key metrics over time.
 - Helps in forecasting future trends and making data-driven decisions.
-![flightimage](assets/Slide-3 (Time-series).png)
+![flightimage3](assets/Slide-3 (Time-series).png)
 
 
-![flightimage](assets/Slide-4 (The-data-itself).png)
+![flightimage4](assets/Slide-4 (The-data-itself).png)
 ## Strategic Recommendations
 Based on the analysis, the following recommendations are made to enhance operational effectiveness and improve customer experiences:
 - Optimize flight schedules to reduce delays.
