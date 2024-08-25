@@ -42,7 +42,7 @@ To ensure comprehensive analysis, the following tasks were performed:
 - Includes key metrics such as total flights, average delays, and overall traffic trends.
 - Utilizes color-coded indicators to highlight performance levels (e.g., green for on-time, red for delays).
 
-![flightimage](assets/Slide-1(Overall_stats))
+![flightimage](assets/Slide-1 (Overall_stats).png)
 
 ### Flight Traffic Analysis
 - Visualizes traffic patterns across different airports and airlines.
